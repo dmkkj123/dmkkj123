@@ -12,11 +12,19 @@
 
 <br/>
 
-**AI · Code · Algorithms**
+<b>AI · Code · Algorithms</b>
 
 <hr/>
 
-<i>Keep learning, keep building.</i>
+𝓡𝓮𝓪𝓵 𝓰𝓮𝓷𝓮𝓻𝓸𝓼𝓲𝓽𝔂 𝓽𝓸𝔀𝓪𝓻𝓭 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮
+
+<br/>
+
+𝓬𝓸𝓷𝓼𝓲𝓼𝓽𝓼 𝓲𝓷 𝓰𝓲𝓿𝓲𝓷𝓰 𝓪𝓵𝓵 𝓽𝓸 𝓽𝓱𝓮 𝓹𝓻𝓮𝓼𝓮𝓷𝓽.
+
+<br/><br/>
+
+— 𝓐𝓵𝓫𝓮𝓻𝓽 𝓒𝓪𝓶𝓾𝓼
 
 </td>
 </tr>
