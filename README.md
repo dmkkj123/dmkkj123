@@ -1,57 +1,85 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:285582&height=200&section=header&text=Hello,%20World.&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<table>
+<tr>
+<td width="43%">
+<img src="./th.jpg" width="100%" alt="MyGO!!!!!"/>
+</td>
+<td width="57%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;AI+Agent+Enthusiast;Competitive+Programmer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=1800&color=E9A0B5&center=true&vCenter=true&width=350&height=65&repeat=true&lines=It%27s+MyGO%21%21%21%21%21" width="100%" alt="It's MyGO!!!!!"/>
 
-</div>
+<hr/>
 
-## 👨‍💻 About Me
+<i>「迷子でもいい、迷子でも進め。」</i>
 
-- 🎓 Computer Science Undergraduate
-- ☕ Focused on Java Backend Development
-- 🤖 Exploring AI Agents and RAG Systems
-- 🧩 Passionate about Algorithms and Problem Solving
-- 🌱 Currently learning Distributed Systems
+<br/><br/>
 
-## 🛠️ Tech Stack
+Java · AI Agent · Algorithms
 
-<div align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,spring,mysql,redis,maven,docker,git,linux,idea&perline=5" />
+♫ Now Playing — 春日影
 
-</div>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| AI Platform | RAG, Spring AI, SSE, Vector Search |
-| Pico Java | AI Agent, Tool Calling, Context Management |
-| Tlias | Spring Boot, MySQL, Redis, JWT |
-
-## 🏆 Competitive Programming
-
-- GPLT — National Second Prize (Team)
-- CCPC — Provincial Silver Medal
-- CCPC — Northeast Invitational Bronze Medal
-- Blue Bridge Cup — Provincial First Prize (Java A)
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
+<h2 align="center">✧ About Me · 自己紹介 ✧</h2>
+
 <div align="center">
 
-*"The best way to learn is to build."*
+计算机专业在读 · Java 后端开发
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:285582&height=100&section=footer" width="100%"/>
+热衷于算法竞赛与 AI Agent 开发
+
+喜欢文学、游戏、音乐与二次元
+
+正在尝试构建一些有趣的东西。
+
+<br/>
+
+<i>まだまだ、旅の途中。</i>
+
+</div>
+
+<br/>
+
+<h2 align="center">♫ Music Box</h2>
+
+<div align="center">
+
+<img src="./music-box.svg" width="100%" alt="春日影 - MyGO!!!!!"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">✧ Tech Stack ✧</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,spring,mysql,redis&theme=dark" alt="Tech Stack"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=maven,docker,git,linux,idea&theme=dark" alt="Development Tools"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<i>「迷子でも、前へ。」</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16181d,50:795164,100:E9A0B5&height=110&section=footer" width="100%"/>
 
 </div>
