@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="130" viewBox="0 0 720 130" role="img" aria-labelledby="title">
+  <title id="title">I'm adw05 — Welcome to my space</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E9A0B5"/>
+      <stop offset="50%" stop-color="#AD9AD7"/>
+      <stop offset="100%" stop-color="#7EABD8"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="130" rx="40" fill="url(#bg)"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;1;1;0;0;0" keyTimes="0;.12;.37;.5;.88;1" dur="10s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 14;0 0;0 0;0 -10;0 14;0 14" keyTimes="0;.12;.37;.5;.88;1" dur="10s" repeatCount="indefinite"/>
+      <text x="360" y="84" font-size="54">I'm adw05</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.5;.62;.87;.99;1" dur="10s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 -10;0 14" keyTimes="0;.5;.62;.87;.99;1" dur="10s" repeatCount="indefinite"/>
+      <text x="360" y="82" font-size="46">Welcome to my space</text>
+    </g>
+  </g>
+</svg>
