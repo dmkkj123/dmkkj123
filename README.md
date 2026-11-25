@@ -3,28 +3,26 @@
 
 <table>
 <tr>
-<td width="45%">
+<td width="45%" align="center">
 <img src="./th.jpg" width="100%" alt="Illustration"/>
 </td>
 <td width="55%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:E9A0B5,50:AD9AD7,100:7EABD8&height=130&text=adw05&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="adw05"/>
+<img src="./adw05-banner.svg" width="100%" alt="Welcome to my space"/>
 
-<br/>
-
-<b>AI · Code · Algorithms</b>
+<p><b>AI · Code · Algorithms</b></p>
 
 <hr/>
 
-𝓡𝓮𝓪𝓵 𝓰𝓮𝓷𝓮𝓻𝓸𝓼𝓲𝓽𝔂 𝓽𝓸𝔀𝓪𝓻𝓭 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮
-
+<p align="center">
+<sub>
+𝑅𝑒𝑎𝑙 𝑔𝑒𝑛𝑒𝑟𝑜𝑠𝑖𝑡𝑦 𝑡𝑜𝑤𝑎𝑟𝑑 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒
 <br/>
-
-𝓬𝓸𝓷𝓼𝓲𝓼𝓽𝓼 𝓲𝓷 𝓰𝓲𝓿𝓲𝓷𝓰 𝓪𝓵𝓵 𝓽𝓸 𝓽𝓱𝓮 𝓹𝓻𝓮𝓼𝓮𝓷𝓽.
-
+𝑐𝑜𝑛𝑠𝑖𝑠𝑡𝑠 𝑖𝑛 𝑔𝑖𝑣𝑖𝑛𝑔 𝑎𝑙𝑙 𝑡𝑜 𝑡ℎ𝑒 𝑝𝑟𝑒𝑠𝑒𝑛𝑡.
 <br/><br/>
-
-— 𝓐𝓵𝓫𝓮𝓻𝓽 𝓒𝓪𝓶𝓾𝓼
+<i>— Albert Camus</i>
+</sub>
+</p>
 
 </td>
 </tr>
